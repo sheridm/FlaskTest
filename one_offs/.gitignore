@@ -1,6 +1,6 @@
 # Ignore everything in this directory
 *
-# Except this file
+# Except the files we choose to list
 !.gitignore
 !__init__.py
 !db_create_migrate.py
